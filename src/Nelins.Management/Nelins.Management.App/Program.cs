@@ -1,4 +1,4 @@
-using Nelins.Management.Api.Services;
+using Nelins.Management.App.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

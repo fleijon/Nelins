@@ -1,7 +1,7 @@
 using Grpc.Core;
-using Nelins.Management.Api;
+using Nelins.Management.App;
 
-namespace Nelins.Management.Api.Services;
+namespace Nelins.Management.App.Services;
 
 public class GreeterService : Greeter.GreeterBase
 {

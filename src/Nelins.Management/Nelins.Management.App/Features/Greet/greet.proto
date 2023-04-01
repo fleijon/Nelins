@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "Nelins.Management.Api";
+option csharp_namespace = "Nelins.Management.App";
 
 package greet;
 
